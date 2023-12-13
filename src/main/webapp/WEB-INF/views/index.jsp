@@ -4,8 +4,8 @@
 <title>Hello World from Daewoon!</title>
 </head>
 <body>
-<h1>${msg} from Daewoon with webhook shoot at 4th times!!!!</h1>
+<h1>${msg} from Daewoon build v10.0</h1>
 <h2>Today is <fmt:formatDate value="${today}" pattern="yyyy-MM-dd"/></h2>
-<h3>Version: 1.0</h3>
+<h3>Version: 10.0</h3>
 </body>
 </html>
